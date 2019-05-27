@@ -2,7 +2,6 @@
 
 /.vscode
 
-/eBooks
 
 events.out.tfevents*
 
@@ -21,9 +20,6 @@ events.out.tfevents*
 output_graph.pb
 output_labels.txt
 
-/training_images
-
-/test_images
 
 retrained_graph.pb
 retrained_labels.txt
