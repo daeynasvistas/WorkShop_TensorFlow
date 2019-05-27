@@ -4,8 +4,7 @@
 # Primeira Parte (Criar classificador de imagens)
 Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar conclusões sobre serviços cognitivos.
 
-### Software necessário para seguir esta primeira parte prática 
-(e fica com um classificador funcional)
+### Software necessário para seguir esta primeira parte prática (e fica com um classificador funcional)
 
 1. [VisualStudio Code](https://code.visualstudio.com/) (Preferencialmente)
 2. [Git](https://git-scm.com/download/win/) (Preferencialmente)
