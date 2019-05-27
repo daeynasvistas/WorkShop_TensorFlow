@@ -10,3 +10,4 @@ Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar 
 1. [VisualStudio Code](https://code.visualstudio.com/) (Preferencialmente)
 2. [Git](https://git-scm.com/download/win/) (Preferencialmente)
 3. [Python 3.6.1](https://www.python.org/downloads/release/python-361/) (A versão é importante)
+    1. Link directo para Vers. Windows [Python 3.6.1 Windows x86-64 executable installer](https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe)
