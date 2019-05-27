@@ -13,17 +13,25 @@ Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar 
 
 
 #### Num terminal digitar:
-```python
+```c#
 py --version
 ```
 #### Resposta correcta:
-```cmd
+```
 Python 3.6.1
 ```
 
- py -m pip install --upgrade pip setuptools
- py -m pip install --upgrade tensorflow
- py -m pip install --user numpy
- 
- py -m pip --version
-pip 19.1.1
+#### Num terminal digitar:
+```c#
+py -m pip install --upgrade pip setuptools
+py -m pip --version
+```
+#### Resposta correcta:
+```
+pip 19.1.1 
+```
+#### Num terminal digitar:
+```c#
+py -m pip install --upgrade tensorflow
+py -m pip install --user numpy
+```
