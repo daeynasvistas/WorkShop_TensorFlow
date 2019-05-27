@@ -43,6 +43,8 @@ git clone https://github.com/daeynasvistas/WorkShop_TensorFlow.git
 ```
 (ou em alternativa, fazer download e unzip para uma pasta)
 
+![SC_03](https://user-images.githubusercontent.com/2634610/58430996-c71b7200-80a3-11e9-8124-4ba40a798b85.gif)
+
 
 ## Resultado final da instalação
 #### Num terminal digital:
