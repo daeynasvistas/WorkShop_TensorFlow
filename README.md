@@ -44,3 +44,19 @@ git clone https://github.com/daeynasvistas/WorkShop_TensorFlow.git
 (ou em alternativa, fazer download e unzip para uma pasta)
 
 
+## Resultado final da instalação
+#### Num terminal digital:
+```c#
+py retrain.py
+```
+
+## Este erro indica que está tudo bem instalado !!! 
+```c#
+starting program . . .
+ERROR: there are not at least 3 images in C:\IPG_workshop\WorkShop_TensorFlow\WorkShop_IPG/test_images/
+Did you break out some test images?
+```
+
+
+
+
