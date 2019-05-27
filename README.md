@@ -13,7 +13,7 @@ Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar 
 
 
 #### Num terminal digitar:
-```
+```py
 py --version
 ```
 #### Resposta correcta:
