@@ -47,7 +47,7 @@ git clone https://github.com/daeynasvistas/WorkShop_TensorFlow.git
 
 
 ## Resultado final da instalação
-#### Num terminal digital:
+#### Num terminal digitar:
 ```c#
 py retrain.py
 ```
