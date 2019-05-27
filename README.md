@@ -35,3 +35,12 @@ pip 19.1.1
 py -m pip install --upgrade tensorflow
 py -m pip install --user numpy
 ```
+
+# Instalação do classificador de imagens "genérico"
+## Clonar este repositório
+```c#
+git clone https://github.com/daeynasvistas/WorkShop_TensorFlow.git
+```
+(ou em alternativa, fazer download e unzip para uma pasta)
+
+
