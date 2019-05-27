@@ -12,11 +12,11 @@ Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar 
    Link directo para Vers. Windows [Python 3.6.1 Windows x86-64 executable installer](https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe)
 
 
-##Num terminal digitar:
+#### Num terminal digitar:
 ```
 py --version
 ```
-##Resposta correcta:
+#### Resposta correcta:
 ```
 Python 3.6.1
 ```
