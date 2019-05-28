@@ -63,3 +63,21 @@ Did you break out some test images?
 
 
 
+# Treinar classificador
+## Mover imagens da pasta de treino paraa pasta de teste
+
+Mover 4 ou 5 imagens de cada uma das pastas de treino para a pasta de teste
+
+![SC_04](https://user-images.githubusercontent.com/2634610/58465256-338f8300-812f-11e9-98cf-d42b425e8c8f.gif)
+
+
+
+# Testar e visualizar resultados
+## Resultado final
+#### Num terminal digitar:
+```c#
+py test.py
+```
+
+
+
