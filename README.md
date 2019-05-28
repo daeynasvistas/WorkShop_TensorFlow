@@ -12,7 +12,7 @@ Criar um novo Classificador com TensorFlow. Visualizar os resultados para tirar 
    Link directo para Vers. Windows [Python 3.6.1 Windows x86-64 executable installer](https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe)
 
 
-#### Num terminal digitar:
+#### Num terminal:
 ```c#
 py --version
 ```
@@ -21,7 +21,7 @@ py --version
 Python 3.6.1
 ```
 
-#### Num terminal digitar:
+#### Num terminal:
 ```c#
 py -m pip install --upgrade pip setuptools
 py -m pip --version
@@ -30,7 +30,7 @@ py -m pip --version
 ```
 pip 19.1.1 
 ```
-#### Num terminal digitar:
+#### Num terminal:
 ```c#
 py -m pip install --upgrade tensorflow
 py -m pip install --user numpy
@@ -48,7 +48,7 @@ git clone https://github.com/daeynasvistas/WorkShop_TensorFlow.git
 
 
 ## Resultado final da instalação
-#### Num terminal digitar:
+#### Num terminal:
 ```c#
 py retrain.py
 ```
@@ -80,10 +80,12 @@ Mover 4 ou 5 imagens de cada uma das pastas de treino para a pasta de teste
 
 # Testar e visualizar resultados
 ## Resultado final
-#### Num terminal digitar:
+#### Num terminal:
 ```c#
 py test.py
 ```
+
+![SC_06](https://user-images.githubusercontent.com/2634610/58465986-b6650d80-8130-11e9-8621-34e33ceb1548.gif)
 
 
 
