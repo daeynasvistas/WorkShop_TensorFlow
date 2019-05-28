@@ -34,6 +34,7 @@ pip 19.1.1
 ```c#
 py -m pip install --upgrade tensorflow
 py -m pip install --user numpy
+py -m pip install --upgrade opencv-python
 ```
 
 # Instalação do classificador de imagens "genérico"
