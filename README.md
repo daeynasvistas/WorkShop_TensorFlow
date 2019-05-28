@@ -60,10 +60,13 @@ ERROR: there are not at least 3 images in C:\IPG_workshop\WorkShop_TensorFlow\Wo
 Did you break out some test images?
 ```
 
-# FIM da pré-instalação parao workshop
-### A fase seguinte é para executar no workshop
+
 
 ---
+# FIM da pré-instalação parao workshop
+### A fase seguinte é para executar no workshop
+---
+
 
 
 # Treinar classificador
