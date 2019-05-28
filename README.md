@@ -60,11 +60,14 @@ ERROR: there are not at least 3 images in C:\IPG_workshop\WorkShop_TensorFlow\Wo
 Did you break out some test images?
 ```
 
+# FIM da pré-instalação parao workshop
+### A fase seguinte é para executar no workshop
 
+---
 
 
 # Treinar classificador
-## Mover imagens da pasta de treino paraa pasta de teste
+## Mover imagens da pasta de treino para a pasta de teste
 
 Mover 4 ou 5 imagens de cada uma das pastas de treino para a pasta de teste
 
