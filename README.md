@@ -73,6 +73,10 @@ Did you break out some test images?
 ## Mover imagens da pasta de treino para a pasta de teste
 
 Mover 4 ou 5 imagens de cada uma das pastas de treino para a pasta de teste
+#### Num terminal:
+```c#
+py retrain.py
+```
 
 ![SC_04](https://user-images.githubusercontent.com/2634610/58465256-338f8300-812f-11e9-98cf-d42b425e8c8f.gif)
 
